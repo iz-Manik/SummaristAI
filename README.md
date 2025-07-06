@@ -42,7 +42,7 @@ Follow the steps below to set up and run the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer
+git clone https://github.com/riz-Manik/SummaristAI
 cd AI-Powered-Meeting-Summarizer
 ```
 
